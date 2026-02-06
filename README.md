@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Odai.<br>IT Student & Full-Stack Developer.<br><br>Currently deep in the trenches of The Odin Project. I build systems that actually do something.<br><br>If I’m not debugging JavaScript or python, I’m probably watching YouTube videos about physics and science.
+I'm Odai Gubran.<br>IT Student & Full-Stack Developer.<br><br>Currently deep in the trenches of The Odin Project. I build systems that actually do something.<br><br>If I’m not debugging JavaScript or python, I’m probably watching YouTube videos about physics and science.
 
 
 ## 🌐 Socials:
