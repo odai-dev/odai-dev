@@ -1,7 +1,7 @@
 <div align="center">
 
 # Odai Gubran
-### Systems & Full-Stack Software Engineer • AI & Hardware Security Researcher
+### Software Engineer | Cybersecurity & AI
 **Ar-Rasheed Smart University • Sana'a, Yemen**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odai-dev)
@@ -9,7 +9,7 @@
 
 <br/>
 
-> *Building high-performance software at the convergence of low-level systems, WebAssembly, and hardware/AI security.*
+> *Software engineer focused on systems programming, reverse engineering, and security across hardware architectures and artificial intelligence.*
 
 </div>
 
@@ -17,17 +17,17 @@
 
 ### About Me
 
-I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart University, focused on understanding computing systems from the hardware and byte-level up to distributed web architectures.
+I am a software engineer driven by understanding how computing systems operate under the hood—from low-level systems and binary reverse engineering up to modern intelligent software.
 
-- **Accepted Author at IEEE IDEASET-2026**: Co-author of *"PIM-Cleanser: In-Memory Acceleration of Data-Intensive Confidential Data Sanitization"* (Sana'a). Implemented fixed-schedule side-channel mitigation inside Processing-in-Memory (PIM) architectures evaluated via cycle-accurate gem5 simulation.
-- **AI & VLM Security Researcher**: Engineered an upstream ML security firewall defending Vision-Language Models (GPT-4V, Claude, Gemini) against adversarial typographic camouflage, evaluated on Meta's official `CyberSecEval 3` benchmark (100% precision, 97.4% ROC-AUC).
-- **Systems & WebAssembly**: Architected desktop-grade web applications powered by high-speed native Rust constraint-satisfaction solvers compiled directly to WASM, featuring cleanroom binary reverse engineering (`.roz` file format parser).
-- **Native Linux Virtualization in Rust**: Built multi-instance Android container management engines on System76's `libcosmic` desktop toolkit, Docker Bollard API, Linux BinderFS node isolation, and DRI GPU acceleration.
-- 🖥️ **Operating Systems Internals**: Implemented classical CPU scheduling algorithms from scratch with custom binary min-heaps and circular queues in C++, visualized via real-time Dear ImGui OpenGL animations with a 45-page formal engineering specification.
+My core work and technical focus span:
+- Enterprise Software Engineering: Architected and deployed a production operations management system (K9 Operations Management Platform) featuring multi-tier Role-Based Access Control (RBAC), a high-integrity PostgreSQL database, and cryptographic security tokens protecting report approval workflows.
+- Cybersecurity & Hardware Defense: Researched memory side-channel mitigations in confidential Processing-in-Memory (PIM) architectures evaluated via cycle-accurate gem5 simulations, accepted at IEEE IDEASET-2026 (se-pim-data-cleansing).
+- AI & Multimodal LLM Security: Developed upstream machine learning firewalls defending Vision-Language Models against typographic prompt injections, evaluated on Meta's official CyberSecEval 3 benchmark with 100% precision and 97.4% ROC-AUC (visual_prompt_injection_detection).
+- Systems Programming & Reverse Engineering: Architecting desktop-grade software in Rust and C++, featuring cleanroom reverse engineering (.roz binary parser in opentimetable), Linux container virtualization (CosmicReDroid), and OS scheduling algorithms with custom data structures.
 
 ---
 
-### 🌟 Featured Flagship Projects
+### Featured Flagship Projects
 
 <table>
   <tr>
@@ -137,11 +137,11 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
 
 | Domain | Technologies & Frameworks |
 |:---|:---|
-| **Core Languages** | `Rust` • `C++` • `Python` • `TypeScript` • `JavaScript (ES6+)` • `SQL` • `HTML5 / CSS3` |
-| **Systems & Architecture** | `WebAssembly (WASM)` • `System76 libcosmic` • `Docker / Bollard` • `gem5 Simulator` • `Linux BinderFS / DRI` • `Dear ImGui` • `OpenGL` |
-| **AI & Security** | `Multimodal VLM Defense` • `Meta CyberSecEval 3` • `Adversarial ML` • `OpenCV` • `Scikit-Learn` • `PIM Confidential Computing` |
-| **Full-Stack & Web** | `Next.js 16` • `React 19` • `Flask` • `Django` • `PostgreSQL` • `Tailwind CSS` • `Chrome Extensions (MV3)` |
-| **Methodologies & Tools** | `Cleanroom Reverse Engineering` • `Test-Driven Development (TDD)` • `Git` • `Linux Administration` • `Bilingual RTL/LTR UI` |
+| **Core Languages** |  •  •  •  •  •  •  |
+| **Systems & Architecture** |  •  •  •  •  •  •  |
+| **AI & Security** |  •  •  •  •  •  |
+| **Full-Stack & Web** |  •  •  •  •  •  •  |
+| **Methodologies & Tools** |  •  •  •  •  |
 
 </div>
 
