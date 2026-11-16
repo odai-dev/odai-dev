@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Odai Gubran
+# Odai Gubran
 ### Systems & Full-Stack Software Engineer • AI & Hardware Security Researcher
 **Ar-Rasheed Smart University • Sana'a, Yemen**
 
@@ -15,14 +15,14 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart University, focused on understanding computing systems from the hardware and byte-level up to distributed web architectures.
 
-- 🏛️ **Accepted Author at IEEE IDEASET-2026**: Co-author of *"PIM-Cleanser: In-Memory Acceleration of Data-Intensive Confidential Data Sanitization"* (Sana'a). Implemented fixed-schedule side-channel mitigation inside Processing-in-Memory (PIM) architectures evaluated via cycle-accurate gem5 simulation.
-- 🛡️ **AI & VLM Security Researcher**: Engineered an upstream ML security firewall defending Vision-Language Models (GPT-4V, Claude, Gemini) against adversarial typographic camouflage, evaluated on Meta's official `CyberSecEval 3` benchmark (100% precision, 97.4% ROC-AUC).
-- ⚡ **Systems & WebAssembly**: Architected desktop-grade web applications powered by high-speed native Rust constraint-satisfaction solvers compiled directly to WASM, featuring cleanroom binary reverse engineering (`.roz` file format parser).
-- 🚀 **Native Linux Virtualization in Rust**: Built multi-instance Android container management engines on System76's `libcosmic` desktop toolkit, Docker Bollard API, Linux BinderFS node isolation, and DRI GPU acceleration.
+- **Accepted Author at IEEE IDEASET-2026**: Co-author of *"PIM-Cleanser: In-Memory Acceleration of Data-Intensive Confidential Data Sanitization"* (Sana'a). Implemented fixed-schedule side-channel mitigation inside Processing-in-Memory (PIM) architectures evaluated via cycle-accurate gem5 simulation.
+- **AI & VLM Security Researcher**: Engineered an upstream ML security firewall defending Vision-Language Models (GPT-4V, Claude, Gemini) against adversarial typographic camouflage, evaluated on Meta's official `CyberSecEval 3` benchmark (100% precision, 97.4% ROC-AUC).
+- **Systems & WebAssembly**: Architected desktop-grade web applications powered by high-speed native Rust constraint-satisfaction solvers compiled directly to WASM, featuring cleanroom binary reverse engineering (`.roz` file format parser).
+- **Native Linux Virtualization in Rust**: Built multi-instance Android container management engines on System76's `libcosmic` desktop toolkit, Docker Bollard API, Linux BinderFS node isolation, and DRI GPU acceleration.
 - 🖥️ **Operating Systems Internals**: Implemented classical CPU scheduling algorithms from scratch with custom binary min-heaps and circular queues in C++, visualized via real-time Dear ImGui OpenGL animations with a 45-page formal engineering specification.
 
 ---
@@ -32,7 +32,7 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏛️ PIM-Cleanser (IEEE IDEASET-2026)</h3>
+      <h3 align="center">PIM-Cleanser (IEEE IDEASET-2026)</h3>
       <p align="center">
         <a href="https://github.com/odai-dev/se-pim-data-cleansing">
           <img src="https://img.shields.io/badge/IEEE_IDEASET-2026-00629B?style=flat-square&logo=ieee&logoColor=white" />
@@ -42,10 +42,10 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
         </a>
       </p>
       <p>Accepted research paper and artifact evaluation for <b>IEEE IDEASET-2026</b>. Extends the SE-PIM confidential computing architecture with an in-memory data sanitization engine using fixed-schedule execution to prevent memory side-channel leakage. Verified through cycle-accurate gem5 simulations and strict reproducibility test harnesses.</p>
-      <p>🔗 <a href="https://github.com/odai-dev/se-pim-data-cleansing"><b>View Repository →</b></a></p>
+      <p><a href="https://github.com/odai-dev/se-pim-data-cleansing"><b>View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ Visual Prompt Injection Firewall</h3>
+      <h3 align="center">Visual Prompt Injection Firewall</h3>
       <p align="center">
         <a href="https://github.com/odai-dev/visual_prompt_injection_detection">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -55,12 +55,12 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
         </a>
       </p>
       <p>Upstream multimodal machine learning security firewall defending Vision-Language Models against typographic camouflage and visual prompt injection attacks. Achieves <b>100% Precision</b> and <b>97.4% ROC-AUC</b> on Meta's official <code>CyberSecEval 3</code> benchmark. Backed by formal thesis paper and reproducible evaluation notebooks.</p>
-      <p>🔗 <a href="https://github.com/odai-dev/visual_prompt_injection_detection"><b>View Repository →</b></a></p>
+      <p><a href="https://github.com/odai-dev/visual_prompt_injection_detection"><b>View Repository →</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ OpenTimetable</h3>
+      <h3 align="center">OpenTimetable</h3>
       <p align="center">
         <a href="https://github.com/odai-dev/opentimetable">
           <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -70,10 +70,10 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
         </a>
       </p>
       <p>Academic Timetable Studio featuring a high-speed native <b>Rust constraint-satisfaction solver</b> compiled directly to <b>WebAssembly (WASM)</b> for zero-latency client-side solving. Includes a cleanroom reverse-engineered parser for aSc Timetables (<code>.roz</code>) archives, bilingual RTL Arabic / LTR English studio, and Dean-signature print exports.</p>
-      <p>🔗 <a href="https://github.com/odai-dev/opentimetable"><b>View Repository →</b></a></p>
+      <p><a href="https://github.com/odai-dev/opentimetable"><b>View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 CosmicReDroid</h3>
+      <h3 align="center">CosmicReDroid</h3>
       <p align="center">
         <a href="https://github.com/odai-dev/CosmicReDroid">
           <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -83,12 +83,12 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
         </a>
       </p>
       <p>Native Linux Android multi-instance control center built with Rust on System76's <b>libcosmic</b> desktop toolkit. Manages isolated ReDroid containers via Docker Bollard, featuring real-time hardware identity spoofing (Galaxy S24 Ultra, Pixel 8 Pro), deterministic BinderFS node isolation, DRI GPU acceleration, and zstd CoW snapshots.</p>
-      <p>🔗 <a href="https://github.com/odai-dev/CosmicReDroid"><b>View Repository →</b></a></p>
+      <p><a href="https://github.com/odai-dev/CosmicReDroid"><b>View Repository →</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ CPU Scheduling Simulator</h3>
+      <h3 align="center">CPU Scheduling Simulator</h3>
       <p align="center">
         <a href="https://github.com/odai-dev/CPU-Scheduling-Algorithms-Simulation-Using-Data-Structures">
           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -98,10 +98,10 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
         </a>
       </p>
       <p>Operating systems scheduling simulator in C++ implementing 6 classical algorithms (FCFS, SJF, SRTF, Preemptive/Non-preemptive Priority, Round Robin) with scratch-built heap and queue data structures. Features real-time animated Gantt charts via <b>Dear ImGui & OpenGL</b>, backed by a 45-page formal engineering specification.</p>
-      <p>🔗 <a href="https://github.com/odai-dev/CPU-Scheduling-Algorithms-Simulation-Using-Data-Structures"><b>View Repository →</b></a></p>
+      <p><a href="https://github.com/odai-dev/CPU-Scheduling-Algorithms-Simulation-Using-Data-Structures"><b>View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 InChatSight</h3>
+      <h3 align="center">InChatSight</h3>
       <p align="center">
         <a href="https://github.com/odai-dev/InChatSight">
           <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
@@ -111,16 +111,16 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
         </a>
       </p>
       <p>Applied AI browser extension built on Chrome Manifest V3 that injects a context-aware conversational AI companion directly into web chat platforms (WhatsApp Web). Features dynamic DOM message extraction, sliding session memory, and asynchronous multi-LLM routing with zero telemetry leakage.</p>
-      <p>🔗 <a href="https://github.com/odai-dev/InChatSight"><b>View Repository →</b></a></p>
+      <p><a href="https://github.com/odai-dev/InChatSight"><b>View Repository →</b></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Commercial & Enterprise Systems (Proprietary / Client Work)
+### Commercial & Enterprise Systems (Proprietary / Client Work)
 
-#### 🐾 K9 Operations & Logistics Management Platform
+#### K9 Operations & Logistics Management Platform
 *Enterprise operations management system engineered and deployed for commercial facility management.*
 
 * **Confidentiality Notice**: Proprietary enterprise system (Source code private under client agreement; architecture presented with permission).
@@ -131,7 +131,7 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
 
@@ -147,7 +147,7 @@ I am an **IT & Systems Software Engineering Researcher** at Ar-Rasheed Smart Uni
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### GitHub Activity & Analytics
 
 <div align="center">
 
