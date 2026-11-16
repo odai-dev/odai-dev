@@ -1,15 +1,16 @@
 <div align="center">
 
 # Odai Gubran
-### Software Engineer | Cybersecurity & AI
-**Ar-Rasheed Smart University • Sana'a, Yemen**
+### Software Engineer | Full-Stack Web Developer
+**Passionate about Cybersecurity & Artificial Intelligence**
+*Ar-Rasheed Smart University • Sana'a, Yemen*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odai-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odai.gubran@gmail.com)
 
 <br/>
 
-> *Software engineer focused on systems programming, reverse engineering, and security across hardware architectures and artificial intelligence.*
+> *Building modern full-stack web applications, enterprise systems, and intelligent software with a focus on cybersecurity.*
 
 </div>
 
@@ -17,13 +18,14 @@
 
 ### About Me
 
-I am a software engineer driven by understanding how computing systems operate under the hood—from low-level systems and binary reverse engineering up to modern intelligent software.
+I am a Software Engineer and Full-Stack Web Developer passionate about architecting production web platforms, enterprise systems, and exploring cybersecurity and artificial intelligence.
 
-My core work and technical focus span:
-- Enterprise Software Engineering: Architected and deployed a production operations management system (K9 Operations Management Platform) featuring multi-tier Role-Based Access Control (RBAC), a high-integrity PostgreSQL database, and cryptographic security tokens protecting report approval workflows.
-- Cybersecurity & Hardware Defense: Researched memory side-channel mitigations in confidential Processing-in-Memory (PIM) architectures evaluated via cycle-accurate gem5 simulations, accepted at IEEE IDEASET-2026 (se-pim-data-cleansing).
-- AI & Multimodal LLM Security: Developed upstream machine learning firewalls defending Vision-Language Models against typographic prompt injections, evaluated on Meta's official CyberSecEval 3 benchmark with 100% precision and 97.4% ROC-AUC (visual_prompt_injection_detection).
-- Systems Programming & Reverse Engineering: Architecting desktop-grade software in Rust and C++, featuring cleanroom reverse engineering (.roz binary parser in opentimetable), Linux container virtualization (CosmicReDroid), and OS scheduling algorithms with custom data structures.
+My core work and focus areas:
+- Enterprise & Security Systems: Architected and deployed an operations management platform for a private security company in Yemen (K9 Operations Management System)—featuring multi-tier Role-Based Access Control (RBAC), a production PostgreSQL database, multi-stage Docker containerization, and cryptographic security tokens protecting operational report approvals.
+- Modern Web Architecture: Building responsive, high-performance web applications using Next.js 16, React 19, TypeScript, Python (Django/Flask), and Tailwind CSS with full bilingual (Arabic RTL & English) support.
+- Cybersecurity & Hardware Defense: Researched hardware-level side-channel mitigations in confidential Processing-in-Memory architectures, accepted at IEEE IDEASET-2026 (se-pim-data-cleansing).
+- AI & Multimodal LLM Defense: Engineered an upstream machine learning firewall protecting Vision-Language Models against typographic prompt injections, evaluated on Meta's official CyberSecEval 3 benchmark with 100% precision (visual_prompt_injection_detection).
+- Systems Programming & Runtimes: Leveraging Rust (WebAssembly) and C++ when web applications demand high-speed constraint solving (opentimetable), container virtualization (CosmicReDroid), or low-level performance.
 
 ---
 
@@ -31,6 +33,19 @@ My core work and technical focus span:
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">OpenTimetable</h3>
+      <p align="center">
+        <a href="https://github.com/odai-dev/opentimetable">
+          <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Rust_WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+        </a>
+      </p>
+      <p>Modern Academic Timetable Studio combining a responsive Next.js 16 / React 19 web frontend with a high-speed native <b>Rust constraint solver</b> compiled to <b>WebAssembly (WASM)</b>. Features a cleanroom reverse-engineered parser for aSc Timetables (<code>.roz</code>) archives, bilingual RTL Arabic / LTR English studio, and Dean-signature print exports.</p>
+      <p><a href="https://github.com/odai-dev/opentimetable"><b>View Repository →</b></a></p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">PIM-Cleanser (IEEE IDEASET-2026)</h3>
       <p align="center">
@@ -44,6 +59,8 @@ My core work and technical focus span:
       <p>Accepted research paper and artifact evaluation for <b>IEEE IDEASET-2026</b>. Extends the SE-PIM confidential computing architecture with an in-memory data sanitization engine using fixed-schedule execution to prevent memory side-channel leakage. Verified through cycle-accurate gem5 simulations and strict reproducibility test harnesses.</p>
       <p><a href="https://github.com/odai-dev/se-pim-data-cleansing"><b>View Repository →</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Visual Prompt Injection Firewall</h3>
       <p align="center">
@@ -56,21 +73,6 @@ My core work and technical focus span:
       </p>
       <p>Upstream multimodal machine learning security firewall defending Vision-Language Models against typographic camouflage and visual prompt injection attacks. Achieves <b>100% Precision</b> and <b>97.4% ROC-AUC</b> on Meta's official <code>CyberSecEval 3</code> benchmark. Backed by formal thesis paper and reproducible evaluation notebooks.</p>
       <p><a href="https://github.com/odai-dev/visual_prompt_injection_detection"><b>View Repository →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">OpenTimetable</h3>
-      <p align="center">
-        <a href="https://github.com/odai-dev/opentimetable">
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-          <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-          <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        </a>
-      </p>
-      <p>Academic Timetable Studio featuring a high-speed native <b>Rust constraint-satisfaction solver</b> compiled directly to <b>WebAssembly (WASM)</b> for zero-latency client-side solving. Includes a cleanroom reverse-engineered parser for aSc Timetables (<code>.roz</code>) archives, bilingual RTL Arabic / LTR English studio, and Dean-signature print exports.</p>
-      <p><a href="https://github.com/odai-dev/opentimetable"><b>View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">CosmicReDroid</h3>
@@ -118,16 +120,16 @@ My core work and technical focus span:
 
 ---
 
-### Commercial & Enterprise Systems (Proprietary / Client Work)
+### Client & Enterprise Systems (Proprietary)
 
 #### K9 Operations & Logistics Management Platform
-*Enterprise operations management system engineered and deployed for commercial facility management.*
+*Comprehensive operations platform engineered for a private security company in Yemen.*
 
-* **Confidentiality Notice**: Proprietary enterprise system (Source code private under client agreement; architecture presented with permission).
-* **Core Architecture**: Modular Python backend built with Flask and SQLAlchemy, connected to a production PostgreSQL database with multi-stage Docker containerization.
-* **Role-Based Access Control (RBAC)**: Fine-grained multi-tier permissions isolating command staff, veterinary teams, canine handlers, and administrative auditors.
-* **Cryptographic Token Verification**: Implemented cryptographic security tokens to safeguard report generation and approval workflows against unauthorized state modification.
-* **Complex Domain Modeling**: Comprehensive relational tracking for medical histories, vaccination regimens, genetic breeding lineage, and operational field assignments.
+* **Context & Confidentiality**: Developed under client agreement for private security operations in Yemen (source code kept private; architecture and technical highlights shared with permission).
+* **Operational Scope**: Managed the full lifecycle of security canine units—including tactical deployment schedules, handler duty assignments, veterinary medical logs, and breeding pedigrees.
+* **Security & Access Control**: Multi-tier Role-Based Access Control (RBAC) isolating command leadership, veterinary staff, and field handlers.
+* **Cryptographic Token Verification**: Implemented cryptographic security tokens to protect operational report generation and approval workflows against tampering.
+* **Architecture**: Modular Python & Flask backend, production PostgreSQL relational database, and multi-stage Docker containerization.
 
 ---
 
@@ -137,10 +139,9 @@ My core work and technical focus span:
 
 | Domain | Technologies & Frameworks |
 |:---|:---|
-| **Core Languages** |  •  •  •  •  •  •  |
-| **Systems & Architecture** |  •  •  •  •  •  •  |
-| **AI & Security** |  •  •  •  •  •  |
-| **Full-Stack & Web** |  •  •  •  •  •  •  |
+| **Full-Stack & Web** |  •  •  •  •  •  •  •  •  •  |
+| **Cybersecurity & AI** |  •  •  •  •  •  •  •  |
+| **Systems & Architecture** |  •  •  •  •  •  •  •  •  |
 | **Methodologies & Tools** |  •  •  •  •  |
 
 </div>
