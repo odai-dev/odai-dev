@@ -29,7 +29,7 @@ My core work and focus areas:
 
 ---
 
-### Featured Flagship Projects
+### Featured Projects
 
 <table>
   <tr>
